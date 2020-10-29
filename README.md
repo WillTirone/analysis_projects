@@ -10,4 +10,4 @@ I'm going to use this as a general repo to work through Statistical / Mathematic
 
 4. The [Alpaca Trading](https://github.com/WillTirone/Stats_Projects/blob/master/Alpaca_Trading/Alpaca_Trading.ipynb) is about utilizing the Alpaca trading platform's API to buy and sell stocks on a paper account. More info about Alpaca [here](https://alpaca.markets/algotrading). It's been very easy to get started, and they have a great beginner's tutorial that I linked at the top of the notebook if you want to try it yourself. 
 
-5. The [OOP Project](https://github.com/WillTirone/Stats_Projects/blob/master/OOP_Principles/Statistics_OOP.ipynb) is to explore Object-Oriented Programming principles to statistics
+5. The [OOP Project](https://github.com/WillTirone/Stats_Projects/blob/master/OOP_Principles/Statistics_OOP.ipynb) is to explore Object-Oriented Programming principles to statistics. I decided to move this to its own repo to expand on it; this can be found [here](https://github.com/WillTirone/Statistics_Module)
