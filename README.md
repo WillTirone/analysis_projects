@@ -1,4 +1,4 @@
-# Statistics Projects 
+# Analysis Projects 
 
 I'm going to use this as a general repo to work through Statistical / Mathematical concepts as I explore them and help other people understand them along the way!
 
