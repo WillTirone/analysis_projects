@@ -14,4 +14,4 @@ I'm going to use this as a general repo to work through Statistical / Mathematic
 
 6. The [OOP Project](https://github.com/WillTirone/Stats_Projects/blob/master/OOP_Principles/Statistics_OOP.ipynb) is to explore Object-Oriented Programming principles to statistics. I decided to move this to its own repo to expand on it; this can be found [here](https://github.com/WillTirone/Statistics_Module)
 
-7. [Drug Analysis]()
+7. [Drug Analysis](https://github.com/WillTirone/analysis_projects/blob/master/drug_analysis/drug_analysis.ipynb) is an analysis of Medicare Part D (drug) spending for the last several years based on a data set I found. Also doing this to practice different methods in pandas.
